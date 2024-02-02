@@ -26,6 +26,12 @@ export default function Home() {
   };
   return (
     <>
+      {/* <Image
+        src="https://book-central-nextjs.s3.us-east-2.amazonaws.com/TheDeadZone.jpg"
+        alt="The Dead Zone"
+        width={200}
+        height={200}
+      /> */}
       <button onClick={handleClick} type="button">
         Click Me
       </button>
